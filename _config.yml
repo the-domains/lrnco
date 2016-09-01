@@ -6,5 +6,9 @@ color:
   rhythmicContrast: 0.9026184931863099
 layout_spectrum: 0.09893449884839356
 name: lrnco
+navigation:
+  - name: Luciano Liranço
+    url: 'http://lrnco.cc'
+    type: external
 title: Luciano Liranço
 description: Portfólio
