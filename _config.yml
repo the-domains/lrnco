@@ -5,10 +5,4 @@ color:
   lightness: 0.8727732470724732
   saturation: 0.32072857883758843
   rhythmicContrast: 0.9026184931863099
-  brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
 name: lrnco
