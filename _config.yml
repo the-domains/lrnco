@@ -1,4 +1,4 @@
-layout_spectrum: 0.09893449884839356
+layout_spectrum: 0.9382979
 description: Portfólio
 name: lrnco
 title: Luciano Liranço
@@ -18,9 +18,9 @@ navigation:
   - url: 'http://lrnco.cc'
     name: Luciano Liranço
     type: external
-typography_spectrum: 0.2042553
+typography_spectrum: 0.1851064
 color:
   brandStrength: 0.8638794810976833
-  saturation: 0.3207285788375884
-  lightness: 0.8727732470724732
-  rhythmicContrast: 0.9026184931863099
+  lightness: 0.01489362
+  saturation: 0.7404255
+  rhythmicContrast: 0.1851064
