@@ -21,6 +21,6 @@ navigation:
 typography_spectrum: 0.1851064
 color:
   brandStrength: 0.8638794810976833
-  lightness: 0.01489362
-  saturation: 0.7404255
-  rhythmicContrast: 0.1851064
+  lightness: 0
+  saturation: 1
+  rhythmicContrast: 1
