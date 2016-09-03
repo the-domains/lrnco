@@ -1,26 +1,14 @@
-layout_spectrum: 0.5808511
-description: Portfólio
-name: lrnco
-title: Luciano Liranço
-collections:
-  - index:
-      navigable: true
-      path: /
-      number: 15
-      paginate: true
-    feed:
-      format: rss
-      path: /rss.xml
-      number: 10
-    permalink:
-      path: '/:title/'
-navigation:
-  - url: 'http://lrnco.cc'
-    name: Luciano Liranço
-    type: external
-typography_spectrum: 0.1851064
+layout_spectrum: 0.09893449884839356
+typography_spectrum: 0.6627341799903661
 color:
   brandStrength: 0.8638794810976833
-  lightness: 0
-  saturation: 1
-  rhythmicContrast: 1
+  lightness: 0.8727732470724732
+  saturation: 0.32072857883758843
+  rhythmicContrast: 0.9026184931863099
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: lrnco
